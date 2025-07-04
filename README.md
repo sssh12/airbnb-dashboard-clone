@@ -48,7 +48,3 @@ _Tailwind UI 패턴 학습: Vite + React + TypeScript + Tailwind CSS_
 
 - 실제 서비스 스타일의 UI를 직접 구현하며 Tailwind CSS 패턴을 체득
 - 컴포넌트 분할, 레이아웃 설계, 반응형 웹, 다크모드 등 실무에 바로 적용 가능한 스킬 습득
-
----
-
-**각 단계별 상세 코드는 튜토리얼 문서를 참고하세요.**
