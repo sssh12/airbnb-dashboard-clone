@@ -1,4 +1,5 @@
 # Airbnb Dashboard 클론
+
 _Tailwind UI 패턴 학습: Vite + React + TypeScript + Tailwind CSS_
 
 ---
@@ -25,13 +26,15 @@ _Tailwind UI 패턴 학습: Vite + React + TypeScript + Tailwind CSS_
 
 ## 🏗️ 단계
 
-1. **컴포넌트 단위 UI 구현**  
+1. **컴포넌트 단위 UI 구현**
+
    - 네비게이션 바, 사이드바, 숙소 카드, 검색 바, 버튼 등 UI 컴포넌트 제작
 
-2. **레이아웃 구성**  
+2. **레이아웃 구성**
+
    - 컴포넌트 조합, 전체 페이지 구조(사이드바 + 상단바 + 메인), Tailwind의 flex/grid/gap 등 레이아웃 기법 학습
 
-3. **반응형 & 다크모드 적용**  
+3. **반응형 & 다크모드 적용**
    - Tailwind의 반응형 접두사(`sm:`, `md:`, …)와 다크모드(`dark:`) 활용, 실제 서비스 대응력 강화
 
 ---
